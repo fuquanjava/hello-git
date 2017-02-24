@@ -1,0 +1,9 @@
+target
+.idea
+*.iml
+\.*
+logs
+temp
+warehouse
+node_modules
+
